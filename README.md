@@ -12,6 +12,18 @@ RepoMirror AI is a full-stack web application that **analyzes any GitHub reposit
 Built using **FastAPI, Next.js, GitHub API, and Large Language Models (LLMs)**.
 
 ---
+## 🎥 Live Demo
+
+🎬 **Project Walkthrough (Google Drive):**  
+👉 [Watch the live demo here](https://drive.google.com/file/d/1Pbl0IKneTfiELyz-UoFsgm_rCVYAtFoe/view?usp=sharing)
+
+This demo showcases:
+- End-to-end workflow of **RepoMirror AI**
+- GitHub repository analysis using real GitHub data
+- AI-generated **score, explanation, and improvement roadmap**
+- “Why this score?” explainable AI feature
+- Frontend (Next.js) and backend (FastAPI) integration
+---
 
 ## ✨ Features
 
@@ -111,7 +123,7 @@ Backend runs at:
 ```cpp
 http://127.0.0.1:8000
 ```
-###3️⃣ Frontend Setup
+### 3️⃣ Frontend Setup
 ```bash
 cd frontend
 npm install
@@ -121,6 +133,7 @@ Frontend runs at:
 ```arduino
 http://localhost:3000
 ```
+---
 ## 🧪 Example Usage
 
 1. Open the web app  
@@ -128,6 +141,45 @@ http://localhost:3000
 ```bash
 https://github.com/username/repository
 ```
+3. Click **Analyze**
+4. View:
+- 📊 Score
+- 🧠 AI explanation
+- 🚀 Improvement roadmap
+
+---
+
+## 🏆 Why RepoMirror AI?
+
+- ✔ Real GitHub data (not mock data)
+- ✔ Meaningful use of AI
+- ✔ Explainable scoring
+- ✔ Clean architecture
+- ✔ Hackathon-ready polish
+
+---
+
+## 🔮 Future Improvements
+
+- 📈 Compare multiple repositories
+- 🧪 Deeper test & CI detection
+- 🌙 Dark mode
+- 📊 Visual analytics dashboard
+- 🔐 OAuth GitHub login
+
+---
+
+
+## 👩‍💻 Author
+
+**Mukta Redij**  
+Built for Gitgrade Hackathon, learning, and real-world impact 🚀
+
+---
+
+## 📄 License
+
+MIT License
 
 
 
